@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Port3Hub"
+  },
+  "hero": {
+    "title": "Port3 網絡社區中心",
+    "subtitle": "Port3 已發展成為一個社區接管項目，探索來自世界各地熱情社區成員構建的項目和資源。"
+  },
+  "projects": {
+    "search": "搜尋項目...",
+    "allCategories": "所有類別",
+    "noResults": "找不到符合條件的項目",
+    "port3Explorer": {
+      "description": "具有實時交易追蹤和分析功能的 Port3 網絡綜合區塊鏈瀏覽器"
+    },
+    "port3Wallet": {
+      "description": "安全且用戶友好的錢包，支持多鏈管理您的 Port3 資產"
+    },
+    "port3DeFi": {
+      "description": "提供借貸、質押和收益耕作機會的去中心化金融平台"
+    },
+    "port3NFT": {
+      "description": "在充滿活力的市場中以低費用和快速交易買賣和交易 NFT"
+    },
+    "port3Analytics": {
+      "description": "Port3 生態系統的網絡統計、洞察和數據可視化工具"
+    },
+    "port3Forum": {
+      "description": "用於支持、想法和協作的社區討論平台"
+    }
+  },
+  "footer": {
+    "builtWith": "由 Port3 社區用 ❤️ 構建",
+    "copyright": "© 2026 Port3 社區。保留所有權利。"
+  }
+}

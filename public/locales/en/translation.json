@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Port3Hub"
+  },
+  "hero": {
+    "title": "Port3 Network Community Hub",
+    "subtitle": "Port3 has evolved into a Community take over project, Explore projects and resources built by passionate community members from around the world."
+  },
+  "projects": {
+    "search": "Search projects...",
+    "allCategories": "All Categories",
+    "noResults": "No projects found matching your criteria",
+    "port3Explorer": {
+      "description": "Comprehensive blockchain explorer for Port3 Network with real-time transaction tracking and analytics"
+    },
+    "port3Wallet": {
+      "description": "Secure and user-friendly wallet for managing your Port3 assets with multi-chain support"
+    },
+    "port3DeFi": {
+      "description": "Decentralized finance platform offering lending, staking, and yield farming opportunities"
+    },
+    "port3NFT": {
+      "description": "Buy, sell, and trade NFTs in a vibrant marketplace with low fees and fast transactions"
+    },
+    "port3Analytics": {
+      "description": "Network statistics, insights, and data visualization tools for the Port3 ecosystem"
+    },
+    "port3Forum": {
+      "description": "Community discussion platform for support, ideas, and collaboration"
+    }
+  },
+  "footer": {
+    "builtWith": "Built with ❤️ by the Port3 Community",
+    "copyright": "© 2026 Port3 Community. All rights reserved."
+  }
+}
