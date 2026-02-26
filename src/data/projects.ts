@@ -5,7 +5,7 @@ export const projects: Project[] = [
     id: 'poorlymarket',
     name: 'Poorly Market',
     logo: 'https://ui-avatars.com/api/?name=Poorly+Market&background=0969da&color=ffffff&size=128&bold=true&font-size=0.5',
-    website: 'https://poorlymarket.xyz',
+    website: '',
     description: 'A prediction market that uses PORT3 as betting chips, supporting the use of other shitcoins and providing them with application scenarios.',
     category: ['DeFi', 'Infrastructure']
   }
